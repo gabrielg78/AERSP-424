@@ -1,4 +1,4 @@
-# AERSP-424 Fall 2024
-Repository for Submissions and Assignments for AERSP-424 Fall 2024
+# AERSP 424 Fall 2024
+Repository for Submissions and Assignments for AERSP 424 Fall 2024
 
-Editing another line to make an edit.
+Hello Dr. Miller and/or Xiangfu! I hope you are both having a fantastic day so far!
