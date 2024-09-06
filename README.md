@@ -1,4 +1,6 @@
-# AERSP 424 Fall 2024
-Repository for Submissions and Assignments for AERSP 424 Fall 2024
+# AERSP424
+## The contents learning in the course AERSP 424
+### C++ Program
+- IDE: Makefile and Cmake
 
-Hello Dr. Miller and/or Xiangfu! I hope you are both having a fantastic day so far!
+By Aria
